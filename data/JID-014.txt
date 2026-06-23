@@ -1,0 +1,37 @@
+Glass from the Storm: Morphology and Formation Time of Fulgurites in Aeolian Desert Sands
+
+Omar Haddad and Vera Lindgren
+Journal of Sedimentary and Surface Geology, Vol. 34, No. 1 (2009)
+JID-014
+
+ABSTRACT
+When lightning strikes loose sand it can fuse a slender tube of glass called a fulgurite. Excavating and reconstructing forty fulgurites from a dune field, we relate their branching morphology to the grain size and moisture of the host sand and estimate the extraordinarily brief interval over which they form. We show that fulgurite shape preserves a readable record of the current path of a single lightning discharge through the ground.
+
+INTRODUCTION
+A fulgurite is a fossil of an instant. The passage of a lightning current through sand heats a narrow channel beyond the melting point of quartz, and the sand fuses into a hollow glass tube that freezes the discharge path in place. Few geological features form so fast or record so singular an event.
+
+This study excavated and reconstructed forty fulgurites from a single dune field to ask what controls their shape and how briefly they form. Because each fulgurite traces one discharge, the population offers a rare library of individual lightning paths through the subsurface.
+
+EXCAVATION AND RECONSTRUCTION
+Fulgurites are fragile and typically shatter if pulled from the ground carelessly. We exposed each specimen by careful removal of surrounding sand, documented its three-dimensional form in place, and lifted it in consolidated sections for reassembly in the laboratory.
+
+Reconstruction allowed us to measure total length, branching pattern, tube diameter, and wall thickness, and to relate these to the grain size and inferred moisture of the sand at each depth. The host sand, sampled alongside, provided the context the glass alone could not.
+
+MORPHOLOGY AND THE HOST SAND
+Fulgurite shape proved tightly linked to the sand it formed in. Coarse, dry sand produced wide tubes with thick, rough walls, while finer sand yielded slender, smooth-walled tubes that branched more freely. Moisture, by conducting current away from the main channel, encouraged branching as the discharge sought multiple paths to ground.
+
+The branching itself is a faithful map of the current's descent. Each fork marks a point where the discharge divided, and the relative diameters of the branches record how the current split between them. A fulgurite is thus not a random glass tangle but a frozen circuit diagram.
+
+HOW BRIEFLY THEY FORM
+The melting that creates a fulgurite occurs during the lightning current itself, an event lasting only fractions of a second, and the glass freezes almost as fast once the current ceases. The thinness of the fused walls, just a rind around an unmelted core of sand, testifies to how little time heat had to spread outward from the channel.
+
+This brevity is what makes fulgurites such clean recorders. There is no slow cooling to blur the structure, no later reworking of a feature buried in an instant. The fulgurite captures one discharge and nothing else, which is precisely what makes its morphology so legible.
+
+CONCLUSION
+Fulgurites form in a fraction of a second and preserve, in their branching glass, a readable record of a single lightning discharge shaped by the grain size and moisture of the host sand. As natural recorders of an otherwise invisible underground event, they deserve wider use in the study of lightning and of the loose sediments it strikes.
+
+REFERENCES
+[1] Haddad, O. (2006). Excavation methods for fragile fulgurites. Journal of Sedimentary and Surface Geology, 31(2), 88-110.
+[2] Lindgren, V., & Sasaki, K. (2007). Grain size and fused-tube morphology. Sediment Microstructure Letters, 19(1), 33-55.
+[3] Okeke, C. (2004). Current paths in granular media. Applied Geophysics Reviews, 13(3), 200-223.
+[4] Falk, R. (2005). Cooling rates in lightning-fused glass. Mineral Physics Letters, 8(2), 140-159.

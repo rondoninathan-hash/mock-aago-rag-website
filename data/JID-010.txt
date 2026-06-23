@@ -1,0 +1,36 @@
+Voicing the Past: Acoustic Trade-offs in the Restoration of Eighteenth-Century Pipe Organs
+
+Cornelis Reinhart and Beatrix Vogel
+Journal of Historical Acoustics, Vol. 19, No. 1 (1999)
+JID-010
+
+ABSTRACT
+Restoring a historic pipe organ forces a choice between two incompatible fidelities: to the instrument as it was originally voiced and to the instrument as later generations altered and loved it. Through three case restorations we examine the acoustic consequences of each choice, focusing on wind pressure, pipe voicing, and the temperament to which the instrument is tuned. We argue that no restoration is acoustically neutral and that every decision silently privileges one historical moment over others.
+
+INTRODUCTION
+A pipe organ is rarely the instrument its builder finished. Over centuries it accumulates repairs, enlargements, retunings, and changes of taste, each leaving an acoustic mark. When a restorer is engaged, the first and least technical question is the hardest: to which version of the instrument should it be restored?
+
+This paper approaches that question through its acoustic consequences. Drawing on three restorations of eighteenth-century instruments, we show that the choice of target era is not a matter of authenticity in the abstract but a concrete decision about how the organ will sound.
+
+WIND PRESSURE AND ATTACK
+The pressure of the wind supplied to the pipes governs the loudness, the speech, and above all the attack of each note. Original eighteenth-century instruments ran at modest pressures that gave a gentle, slightly hesitant speech prized by their builders. Nineteenth-century renovators frequently raised the pressure for a bolder, more immediate sound suited to larger congregations.
+
+Restoring the original pressure recovers the historic attack but can leave the instrument sounding underpowered in a space later enlarged to seat more listeners. The restorer must decide whether to honour the pipes' designed speech or the room's present demands, and these often conflict.
+
+VOICING THE PIPES
+Voicing, the fine adjustment of each pipe's mouth and windway, determines its tone colour. It is also the most easily lost layer of an organ's history, because later voicers routinely overwrote earlier work without record. Recovering original voicing therefore often means reconstructing it from indirect evidence rather than restoring something still present.
+
+Where original voicing survives on even a few pipes, it becomes a reference for the rest, but matching new work to it is an interpretive act. Two skilled restorers given the same surviving pipes will produce subtly different ensembles, and neither can claim to have simply uncovered the truth.
+
+TEMPERAMENT AND THE AUDIBLE COMPROMISE
+The temperament to which an organ is tuned, the precise way the octave is divided, is perhaps the most audible of all restoration choices. Eighteenth-century instruments were often tuned in unequal temperaments that make some keys sweet and others harsh, a quality central to the music written for them.
+
+Restoring such a temperament brings the original repertoire to life but can render later music, composed for equal temperament, unplayable in certain keys. Here the conflict between historical moments becomes unavoidable and public: the organ literally cannot serve both eras at once, and the restorer must choose which centuries of music the instrument will be able to speak.
+
+CONCLUSION
+Organ restoration is a sequence of acoustic commitments, each favouring one stratum of the instrument's history. Wind pressure, voicing, and temperament cannot all be returned to a single moment without loss elsewhere. We conclude that honesty about these trade-offs, rather than an unattainable neutrality, should guide restoration practice.
+
+REFERENCES
+[1] Reinhart, C. (1995). Wind pressure and historic organ speech. Journal of Historical Acoustics, 15(2), 70-93.
+[2] Vogel, B. (1992). Reconstructing lost voicing from surviving pipes. Organ Restoration Studies, 7(1), 30-55.
+[3] Lindgren, A. (1988). Unequal temperaments and the keyboard repertoire. Early Music Theory, 10(3), 144-170.

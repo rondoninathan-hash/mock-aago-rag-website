@@ -1,0 +1,37 @@
+Naming the Spectrum: The Emergence of Basic Colour Terms in Twelve Unrelated Languages
+
+Priya Raghunathan
+Studies in Comparative Linguistics, Vol. 18, No. 2 (1991)
+JID-008
+
+ABSTRACT
+Languages differ in how many basic colour terms they encode and where they draw the boundaries between them. Surveying twelve unrelated languages with a standardised colour-naming task, this paper finds broad support for a constrained order in which colour vocabularies expand, while documenting systematic exceptions at the blue-green boundary that resist the standard sequence. I argue that the order reflects perceptual salience filtered through cultural priorities rather than perception alone.
+
+INTRODUCTION
+Why do some languages have a single word covering both blue and green while others split the spectrum into a dozen named regions? The question sits at the intersection of perception, which is broadly shared across humanity, and language, which is endlessly various. The colour lexicon is a rare domain where the two can be measured against each other directly.
+
+This study administered an identical colour-naming task to speakers of twelve languages chosen for their lack of close relation, in order to test how far a single ordering of colour-term acquisition holds across genuinely independent cases.
+
+METHOD
+Each participant was shown a standardised array of colour chips spanning hue, saturation, and lightness, and asked to name each chip with a single everyday word. A term counted as 'basic' only if it was monolexemic, widely agreed upon, and not subsumed under another term. This screening is essential, because every language has many more colour words than basic terms.
+
+We then mapped the region of the array that each basic term covered, producing for every language a partition of colour space. Comparing these partitions across the twelve languages is the heart of the analysis.
+
+A CONSTRAINED ORDER
+The languages fell, with notable regularity, along a single ladder of elaboration. Those with the fewest terms divided colour space into broad warm and cool, or light and dark, categories. As the inventory grew, terms for red, then for yellow and green, then for blue, appeared in a largely fixed succession.
+
+This ordering is unlikely to be coincidental across unrelated languages, and it points to a perceptual scaffolding shared by all speakers. The most salient distinctions of human vision appear to be named first, with finer distinctions added as a vocabulary matures.
+
+THE BLUE-GREEN EXCEPTIONS
+The clean order broke down at the boundary between blue and green. Several languages maintained a single term spanning both long after the standard sequence predicts they should have split, and the split, when it came, did not always fall where perception would suggest.
+
+These exceptions correlate with the cultural prominence of particular materials, dyes, and natural features rather than with any perceptual threshold. I argue they show that the acquisition order is not dictated by perception alone. Perception sets the menu, but culture chooses the order of courses, and at the blue-green boundary that choice is visibly contingent. The languages that delayed the split longest were, without exception, those whose speakers had the least daily need to distinguish the sky from the foliage, a pattern that ties naming order to lived priority rather than to any property of the eye.
+
+CONCLUSION
+Across twelve unrelated languages, basic colour terms expand in a broadly constrained order that betrays a shared perceptual foundation, yet the persistent blue-green exceptions show culture asserting itself against that foundation. The colour lexicon is best read as perception and culture in negotiation, neither wholly free nor wholly fixed.
+
+REFERENCES
+[1] Raghunathan, P. (1987). Screening criteria for basic colour terms. Studies in Comparative Linguistics, 14(3), 130-152.
+[2] Olufemi, B. (1984). The blue-green boundary in maritime languages. Journal of Lexical Semantics, 6(1), 44-66.
+[3] Hartmann, G. (1979). Perceptual salience and naming order. Cognitive Linguistics Review, 3(2), 88-110.
+[4] Sandoval, M. (1982). Dye technology and colour vocabulary. Material Culture and Language, 5, 200-219.

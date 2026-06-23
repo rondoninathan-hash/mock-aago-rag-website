@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mock Journal Archive</title>
+<style>:root { --ink:#1a1a1a; --muted:#666; --rule:#ddd; --link:#2a4d8f; }
+* { box-sizing: border-box; }
+body {
+  font: 17px/1.65 Georgia, 'Times New Roman', serif;
+  color: var(--ink); background: #fafaf8;
+  margin: 0; padding: 2.5rem 1rem 5rem;
+}
+.wrap { max-width: 740px; margin: 0 auto; }
+a { color: var(--link); }
+header.site { border-bottom: 2px solid var(--ink); margin-bottom: 2rem;
+  padding-bottom: 1rem; }
+header.site h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+header.site p { color: var(--muted); margin: 0; font-size: .95rem; }
+.meta { color: var(--muted); font-size: .9rem; }
+.backlink { font-size: .9rem; }
+
+/* index list */
+ul.articles { list-style: none; padding: 0; margin: 0; }
+ul.articles li { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+ul.articles .title { font-size: 1.12rem; font-weight: bold; }
+ul.articles .sub { color: var(--muted); font-size: .92rem; margin-top: .2rem; }
+.jid { font-family: ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  font-size: .82rem; color: #fff; background: #444; padding: .08rem .4rem;
+  border-radius: 3px; }
+
+/* article page */
+article h1 { font-size: 1.5rem; line-height: 1.25; margin: .2rem 0 .6rem; }
+article .byline { font-size: 1.02rem; margin: 0 0 .2rem; }
+article .pubinfo { margin: 0 0 1.4rem; }
+article h2 { font-size: 1.15rem; margin: 1.8rem 0 .5rem;
+  border-bottom: 1px solid var(--rule); padding-bottom: .2rem; }
+article .abstract { background: #f0efe9; border-left: 3px solid #bbb;
+  padding: .8rem 1rem; font-size: .96rem; }
+article .abstract strong { font-variant: small-caps; letter-spacing: .03em; }
+ol.refs { font-size: .9rem; color: #333; }
+ol.refs li { margin-bottom: .4rem; }
+footer.site { max-width: 740px; margin: 3rem auto 0; color: var(--muted);
+  font-size: .82rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <h1>Mock Journal Archive</h1>
+    <p>15 fabricated articles for retrieval / scraping practice.
+       Each links to a full HTML page; raw <code>.txt</code>, <code>.pdf</code>,
+       and <code>articles.json</code> exports live in <code>/data</code>.</p>
+  </header>
+  <ul class="articles">
+    <li>
+      <div class="title"><a href="articles/JID-001.html">Lure Kinetics and Photophore Timing in the Deep-Sea Anglerfish Melanocetus johnsonii</a></div>
+      <div class="sub">Helena Brandt and Yusuf Okonkwo &middot; 2011
+        &middot; Journal of Abyssal Marine Biology
+        &middot; <span class="jid">JID-001</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-002.html">Silver, Sweat, and the Crown: Coinage Debasement in Late-Medieval England, 1340-1412</a></div>
+      <div class="sub">Margaret Aldous &middot; 1987
+        &middot; Review of Numismatic History
+        &middot; <span class="jid">JID-002</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-003.html">Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling</a></div>
+      <div class="sub">Devon Park, Iris Maleckar, and Samuel Whitfield &middot; 2023
+        &middot; Proceedings of Competitive Gaming Studies
+        &middot; <span class="jid">JID-003</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-004.html">Underground Brokers: Mycorrhizal Networks and the Redistribution of Carbon in Temperate Forest Soils</a></div>
+      <div class="sub">Ana-Lucia Foss and Pieter Vandermeer &middot; 1996
+        &middot; Soil Microbiology and Rhizosphere Science
+        &middot; <span class="jid">JID-004</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-005.html">From Semaphore to Signal: The Contested Invention of the Three-Colour Traffic Light, 1868-1935</a></div>
+      <div class="sub">Rowena Castellanos &middot; 1978
+        &middot; Urban Infrastructure History
+        &middot; <span class="jid">JID-005</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-006.html">House Strains and Wild Drift: Microbial Succession in Long-Maintained Sourdough Cultures</a></div>
+      <div class="sub">Tobias Lindqvist and Naomi Achebe &middot; 2018
+        &middot; Journal of Fermentation Ecology
+        &middot; <span class="jid">JID-006</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-007.html">Reading the Annual Layers: Dust Flux and Abrupt Transitions in a West Antarctic Ice Core</a></div>
+      <div class="sub">Klara Bjornstad, Emeka Nwosu, and Ruth Halloran &middot; 2004
+        &middot; Quaternary Climate Records
+        &middot; <span class="jid">JID-007</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-008.html">Naming the Spectrum: The Emergence of Basic Colour Terms in Twelve Unrelated Languages</a></div>
+      <div class="sub">Priya Raghunathan &middot; 1991
+        &middot; Studies in Comparative Linguistics
+        &middot; <span class="jid">JID-008</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-009.html">Error and Honesty in the Waggle Dance: How Recruitment Tolerates Imprecise Distance Signals</a></div>
+      <div class="sub">Friedrich Maas and Lena Soto &middot; 1983
+        &middot; Insect Behaviour and Communication
+        &middot; <span class="jid">JID-009</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-010.html">Voicing the Past: Acoustic Trade-offs in the Restoration of Eighteenth-Century Pipe Organs</a></div>
+      <div class="sub">Cornelis Reinhart and Beatrix Vogel &middot; 1999
+        &middot; Journal of Historical Acoustics
+        &middot; <span class="jid">JID-010</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-011.html">Healing Cracks: Self-Sealing Mechanisms in Roman Marine Concrete and Their Modern Relevance</a></div>
+      <div class="sub">Giulia Fortunato, Henry Abara, and Mei-Ling Tan &middot; 2014
+        &middot; Archaeometry and Materials Science
+        &middot; <span class="jid">JID-011</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-012.html">Two Sleeps and a Shimmer: Quiet and Active Sleep States in the Common Octopus</a></div>
+      <div class="sub">Sofia Marchenko and Daniel Ofori &middot; 2021
+        &middot; Journal of Cephalopod Neuroscience
+        &middot; <span class="jid">JID-012</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-013.html">Islands That Were Never There: The Long Life of Phantom Cartography in the Atlantic</a></div>
+      <div class="sub">Eleanor Whitcombe &middot; 1974
+        &middot; Journal of Historical Geography and Cartography
+        &middot; <span class="jid">JID-013</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-014.html">Glass from the Storm: Morphology and Formation Time of Fulgurites in Aeolian Desert Sands</a></div>
+      <div class="sub">Omar Haddad and Vera Lindgren &middot; 2009
+        &middot; Journal of Sedimentary and Surface Geology
+        &middot; <span class="jid">JID-014</span></div>
+    </li>
+    <li>
+      <div class="title"><a href="articles/JID-015.html">Coins, Trust, and Concrete: The Vending Machine Boom in Postwar Japan, 1955-1985</a></div>
+      <div class="sub">Hiroshi Tanabe and Claire Densmore &middot; 2016
+        &middot; Journal of Economic and Social History
+        &middot; <span class="jid">JID-015</span></div>
+    </li>
+  </ul>
+</div>
+<footer class="site">Mock journal archive &mdash; fabricated content for RAG
+practice. No search or AI features are included; build those yourself.</footer>
+</body>
+</html>

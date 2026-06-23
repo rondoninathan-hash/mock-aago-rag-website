@@ -1,0 +1,37 @@
+Lure Kinetics and Photophore Timing in the Deep-Sea Anglerfish Melanocetus johnsonii
+
+Helena Brandt and Yusuf Okonkwo
+Journal of Abyssal Marine Biology, Vol. 38, No. 2 (2011)
+JID-001
+
+ABSTRACT
+The illicium of the humpback anglerfish supports a bioluminescent esca whose flash patterns have long been assumed to be constant. Using a pressure-tolerant low-light camera array deployed at 1,150 metres in the Cayman Trough, we recorded 41 hours of undisturbed lure behaviour across nine individuals. We report that escal flashes are not constant but follow three reproducible temporal regimes that correlate with the proximity of mobile prey. We argue that lure timing is an actively modulated hunting behaviour rather than a passive metabolic by-product of the symbiotic bacteria that produce the light.
+
+INTRODUCTION
+Bioluminescence in the deep sea is overwhelmingly a story of chemistry borrowed from microbes. In the humpback anglerfish, the light organ at the tip of the dorsal lure, or esca, houses a dense colony of symbiotic bacteria of the genus Enterovibrio. Because the fish cannot synthesise luciferin on its own, the prevailing twentieth-century view held that the glow was effectively always on, a steady beacon dictated by bacterial metabolism rather than by the host.
+
+That view sits awkwardly beside the energetics of the abyss. Prey encounters below a kilometre are rare, and an indiscriminately glowing lure is as likely to attract a larger predator as a meal. We hypothesised that the anglerfish exercises far more control over its lure than the passive model allows, and that this control would be visible as structured timing rather than constant illumination.
+
+FIELD METHODS
+Observations were made during three dives of the submersible tender Cyana II over the Cayman Trough between March and May of the study year. A baited but unlit camera platform was lowered to 1,150 metres and left to acclimate for ninety minutes before recording, minimising disturbance from the descent lights. Imaging used an intensified sensor sensitive to the 470-490 nanometre band characteristic of escal emission, with no supplemental illumination during recording.
+
+We scored each flash event for duration, peak relative intensity, and inter-flash interval. Prey proximity was estimated from the same footage by tracking the silhouettes of mobile zooplankton and small crustaceans against the faint downwelling background. Nine individual anglerfish were identified by the unique branching pattern of their escal appendages and tracked across the recording window.
+
+THREE FLASH REGIMES
+The footage resolved into three statistically distinct regimes. In the quiescent regime, observed when no prey was within roughly two body lengths, the esca produced long, dim, widely spaced flashes averaging one event every 38 seconds. This is the closest the animal came to the textbook 'constant beacon', yet even here the light was clearly pulsed rather than steady.
+
+As prey approached, individuals shifted into an intermediate regime of brighter, shorter flashes at intervals near nine seconds. The third and most striking regime appeared only in the final approach: a brief burst of rapid, high-intensity flickers followed by complete darkness for one to three seconds immediately before a strike. We interpret the terminal blackout as a means of denying the prey a fixed target at the critical moment.
+
+DISCUSSION
+If the light is bacterial, how can the host modulate it so precisely? The escal pore is ringed by muscular tissue and pigment shutters, and our timing data are consistent with mechanical gating of an otherwise continuous bacterial glow rather than with metabolic switching of the bacteria themselves. The host need not turn the light off so much as hide it, which is far faster.
+
+These findings reframe the anglerfish lure as an instrument played by the fish rather than a lamp left burning. They also caution against treating any deep-sea bioluminescence as behaviourally inert simply because its biochemical source is symbiotic.
+
+CONCLUSION
+Lure illumination in Melanocetus johnsonii is actively timed and falls into three reproducible regimes keyed to prey proximity, including a deliberate pre-strike blackout. The result argues for renewed attention to the fine temporal structure of deep-sea light displays, which low-frame-rate historical surveys would have averaged away into an apparent constant glow.
+
+REFERENCES
+[1] Brandt, H. (2007). Pressure-tolerant imaging of mesopelagic fauna. Abyssal Instrumentation Reports, 12(1), 4-19.
+[2] Okonkwo, Y., & Salas, R. (2009). Symbiotic Enterovibrio populations in anglerfish escae. Journal of Abyssal Marine Biology, 36(4), 211-230.
+[3] Voss, M. (1998). The energetics of ambush predation below 1000 m. Deep Trench Ecology, 5(2), 88-104.
+[4] Quill, A., & Brandt, H. (2010). Pigment shutters in luminous fish light organs. Comparative Photobiology, 22(3), 145-160.

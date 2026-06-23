@@ -1,0 +1,37 @@
+Error and Honesty in the Waggle Dance: How Recruitment Tolerates Imprecise Distance Signals
+
+Friedrich Maas and Lena Soto
+Insect Behaviour and Communication, Vol. 11, No. 4 (1983)
+JID-009
+
+ABSTRACT
+The honeybee waggle dance encodes the direction and distance of a resource, yet individual dances are noticeably imprecise. By filming and decoding several hundred dances and tracking the recruits they produced, we quantify the scatter in distance signalling and show that recruitment success is surprisingly robust to it. We propose that the imprecision is not a flaw but a feature that spreads recruits across a foraging zone rather than concentrating them at a single point.
+
+INTRODUCTION
+When a forager honeybee returns from a productive flower patch, she performs a looping dance on the comb whose straight 'waggle' run encodes the direction of the patch relative to the sun and, through its duration, the distance to it. The elegance of this system has made it a textbook example of animal communication.
+
+Less often discussed is how imprecise individual dances are. Repeated dances for the same source vary in their encoded distance by a wide margin. This study asks whether that scatter degrades recruitment, as one would naively expect, or whether the colony tolerates and perhaps exploits it.
+
+FILMING AND DECODING
+We trained foragers to feeders at known distances and filmed their dances on an observation hive through a glass wall. Each waggle run was timed frame by frame, and the encoded distance was read from run duration using a calibration established for our colony.
+
+Recruits were tracked by marking dance followers and recording where they subsequently appeared along a line of monitored feeders. This let us compare the distance a dance encoded with the distances at which its followers actually searched.
+
+QUANTIFYING THE SCATTER
+Dances for a single feeder produced a broad distribution of encoded distances, far broader than the precision of our timing could explain. The scatter grew with distance, so that dances for far sources were proportionally vaguer than those for near ones.
+
+Strikingly, recruitment did not collapse under this vagueness. Followers fanned out across a band of distances centred near the true source, and the colony reliably exploited the feeder despite no single dance pointing to it precisely. The signal was noisy, but the collective response was sound.
+
+IMPRECISION AS STRATEGY
+We argue that the scatter is adaptive. A real flower patch is not a point but an area, and recruits spread across a band of distances are more likely to discover its full extent than recruits aimed at a single coordinate. The vagueness of the dance matches the vagueness of the resource it describes.
+
+On this reading, asking a dance to be more precise would be a category error. The dance is honest about an inherently fuzzy target, and the colony's foraging benefits from a controlled spread of search effort rather than a false pinpoint. Imprecision, calibrated to the world, is information.
+
+CONCLUSION
+Individual waggle dances are imprecise, but the imprecision is matched to the spatial extent of real resources and spreads recruits productively across a foraging zone. Robustness to signal noise is built into the colony's collective response, and the dance is best judged not as a coordinate but as a well-calibrated hint.
+
+REFERENCES
+[1] Maas, F. (1980). Frame-by-frame decoding of the waggle run. Insect Behaviour and Communication, 8(1), 15-37.
+[2] Soto, L., & Pereira, J. (1981). Tracking dance followers in the field. Apicultural Methods, 4(2), 60-82.
+[3] Wendt, H. (1977). Distance calibration in honeybee recruitment. Journal of Comparative Ethology, 9(3), 188-209.
+[4] Kovac, D. (1979). Resource patchiness and optimal search spread. Foraging Theory Letters, 2(1), 25-44.
