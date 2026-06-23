@@ -1,0 +1,36 @@
+Islands That Were Never There: The Long Life of Phantom Cartography in the Atlantic
+
+Eleanor Whitcombe
+Journal of Historical Geography and Cartography, Vol. 3, No. 2 (1974)
+JID-013
+
+ABSTRACT
+Maps of the Atlantic carried, for centuries, islands that did not exist. Tracing four such phantom islands from their first appearance to their eventual deletion, this paper examines why non-existent places proved so durable on the chart. I argue that the persistence of phantom islands reveals the conservative logic of cartography, in which a feature once printed acquires an authority that direct evidence of its absence struggles to overturn.
+
+INTRODUCTION
+It is easy to assume that maps record what explorers find. The history of phantom islands, places drawn and named on charts yet corresponding to nothing in the sea, shows the relationship running the other way: maps could also create the expectation of land and send ships to look for it.
+
+This paper follows four Atlantic phantoms from their origins to their removal, a process that in some cases took three centuries. The question is not merely how they arose, which is often mundane, but why they were so hard to erase once established.
+
+ORIGINS OF THE PHANTOMS
+Phantom islands arose from ordinary errors. A bank of fog mistaken for a coast, a misjudged distance, a low cloud on the horizon, or an iceberg far from home could all generate a sighting reported in good faith. A cartographer, receiving the report, had little choice but to record it.
+
+Once recorded, an island acquired a name, a position, and sometimes a sketched outline, all of which lent it an air of established fact. Later mapmakers, copying from their predecessors as was the universal practice, reproduced it without question. The error propagated not through fresh observation but through faithful copying.
+
+THE AUTHORITY OF THE PRINTED CHART
+The durability of phantom islands rests on an asymmetry of evidence. A single sighting sufficed to place an island on the map, but removing it required something far harder: proof of absence. A ship that failed to find an island had, in the logic of the time, perhaps merely missed it in poor weather or sailed past in the dark.
+
+An island once printed thus enjoyed a presumption of existence that no single negative voyage could dislodge. Only the accumulation of many failed searches, often across generations, eventually shifted the burden of proof. The chart was conservative by nature, slow to add and slower still to subtract.
+
+DELETION AND ITS RESISTANCE
+Even when hydrographic offices began deliberately purging unverified islands, the phantoms resisted. Some survived on commercial maps long after official charts had dropped them, because removing a named feature looked to publishers like an admission of error that fresh editions preferred to avoid.
+
+A few phantoms lingered into the era of systematic survey, deleted only when a ship sailed directly through their charted position and reported open water. The final removal of a phantom island was less a discovery than a bureaucratic decision to disbelieve the accumulated authority of every prior map.
+
+CONCLUSION
+Phantom islands endured because cartography trusted its own past. A feature once printed carried an authority that absence could not easily counter, and only the slow weight of repeated failed searches finally erased them. Their long lives reveal the map not as a neutral record but as a self-citing tradition reluctant to contradict itself.
+
+REFERENCES
+[1] Whitcombe, E. (1971). Copying and error in early sea charts. Journal of Historical Geography and Cartography, 1(1), 18-39.
+[2] Marsden, R. (1968). Fog, ice, and the false coast. Maritime Observation Studies, 4(2), 70-88.
+[3] Auclair, F. (1965). The burden of proving absence at sea. Hydrographic History Review, 2(3), 200-218.

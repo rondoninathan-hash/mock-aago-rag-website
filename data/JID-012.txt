@@ -1,0 +1,37 @@
+Two Sleeps and a Shimmer: Quiet and Active Sleep States in the Common Octopus
+
+Sofia Marchenko and Daniel Ofori
+Journal of Cephalopod Neuroscience, Vol. 8, No. 3 (2021)
+JID-012
+
+ABSTRACT
+Sleep with distinct quiet and active phases was long thought confined to vertebrates. Filming undisturbed common octopuses across multiple nights, we document a recurring transition from a pale, still quiet state into brief bouts of rapid skin-pattern change, eye movement, and muscular twitching that we term active sleep. The cycle's timing and the difficulty of rousing the animal during it parallel features of vertebrate sleep, suggesting a convergent solution in a nervous system organised on entirely different lines.
+
+INTRODUCTION
+Sleep that alternates between quiet and active phases, the latter marked in mammals by rapid eye movement and vivid dreaming, has been one of the more reliable dividing lines between vertebrate and invertebrate nervous systems. The octopus, with its large brain built on a wholly different plan, is an ideal place to test whether that line really holds.
+
+We set out to characterise the rest behaviour of the common octopus in detail, asking whether its quiescent periods are uniform or whether they contain structure resembling the alternating states seen in vertebrates.
+
+OBSERVATION PROTOCOL
+Individual octopuses were housed in quiet tanks and filmed continuously under low light across several nights, after a long acclimation period to ensure the behaviour was undisturbed. We scored skin colour and texture, eye movement, arm posture, and breathing rate.
+
+To test depth of rest, we presented mild, standardised stimuli at intervals and recorded how readily the animal responded. A rest state from which the animal is hard to rouse behaves like sleep rather than mere stillness, an important criterion for the claims that follow.
+
+THE ACTIVE STATE
+For most of its rest the octopus lay pale, still, and evenly breathing, a condition we call quiet sleep. Punctuating this, roughly once an hour, came short bouts of dramatic change: the skin flickered through rapid patterns, the eyes moved, the arms twitched, and breathing grew irregular. These bouts lasted under a minute before the animal sank back into the quiet state.
+
+During these active bouts the octopuses were markedly harder to rouse than during quiet rest, ruling out the possibility that the skin display was simply a response to some external disturbance. The animal was, by our criteria, more deeply asleep precisely when it appeared most active.
+
+CONVERGENCE, NOT INHERITANCE
+The parallel with vertebrate active sleep is striking, but we are cautious about its meaning. The last common ancestor of octopuses and vertebrates was a simple creature that almost certainly had nothing resembling this two-state sleep. Any similarity is therefore convergent: two very different brains arriving independently at a similar organisation of rest.
+
+What problem does the active state solve, that two lineages should both evolve it? We do not claim to know. The convergence does suggest, however, that alternating sleep states answer some general need of complex nervous systems rather than being a quirk of vertebrate history, and that the octopus is a powerful test case for whatever that need turns out to be.
+
+CONCLUSION
+The common octopus exhibits a recurring active sleep state, complete with skin-pattern flickering, eye movement, and reduced rousability, embedded within longer periods of quiet sleep. Arising in a nervous system unrelated to ours, this two-state architecture points to convergent evolution and marks the octopus as a key organism for understanding why complex brains sleep the way they do.
+
+REFERENCES
+[1] Marchenko, S. (2019). Quantifying rest depth in cephalopods. Journal of Cephalopod Neuroscience, 6(2), 80-101.
+[2] Ofori, D., & Knutsen, A. (2020). Skin-pattern dynamics during octopus rest. Marine Behaviour Letters, 12(1), 44-63.
+[3] Ramirez, T. (2017). Criteria for sleep in invertebrates. Comparative Sleep Science, 5(3), 150-172.
+[4] Bauer, H. (2018). Convergent evolution of neural states. Evolutionary Neurobiology Reviews, 9(4), 300-321.

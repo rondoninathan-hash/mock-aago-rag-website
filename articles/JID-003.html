@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JID-003 - Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling</title>
+<meta name="citation_title" content="Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling">
+<meta name="citation_journal_title" content="Proceedings of Competitive Gaming Studies">
+<meta name="citation_volume" content="9">
+<meta name="citation_issue" content="1">
+<meta name="citation_publication_date" content="2023">
+<style>:root { --ink:#1a1a1a; --muted:#666; --rule:#ddd; --link:#2a4d8f; }
+* { box-sizing: border-box; }
+body {
+  font: 17px/1.65 Georgia, 'Times New Roman', serif;
+  color: var(--ink); background: #fafaf8;
+  margin: 0; padding: 2.5rem 1rem 5rem;
+}
+.wrap { max-width: 740px; margin: 0 auto; }
+a { color: var(--link); }
+header.site { border-bottom: 2px solid var(--ink); margin-bottom: 2rem;
+  padding-bottom: 1rem; }
+header.site h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+header.site p { color: var(--muted); margin: 0; font-size: .95rem; }
+.meta { color: var(--muted); font-size: .9rem; }
+.backlink { font-size: .9rem; }
+
+/* index list */
+ul.articles { list-style: none; padding: 0; margin: 0; }
+ul.articles li { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+ul.articles .title { font-size: 1.12rem; font-weight: bold; }
+ul.articles .sub { color: var(--muted); font-size: .92rem; margin-top: .2rem; }
+.jid { font-family: ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  font-size: .82rem; color: #fff; background: #444; padding: .08rem .4rem;
+  border-radius: 3px; }
+
+/* article page */
+article h1 { font-size: 1.5rem; line-height: 1.25; margin: .2rem 0 .6rem; }
+article .byline { font-size: 1.02rem; margin: 0 0 .2rem; }
+article .pubinfo { margin: 0 0 1.4rem; }
+article h2 { font-size: 1.15rem; margin: 1.8rem 0 .5rem;
+  border-bottom: 1px solid var(--rule); padding-bottom: .2rem; }
+article .abstract { background: #f0efe9; border-left: 3px solid #bbb;
+  padding: .8rem 1rem; font-size: .96rem; }
+article .abstract strong { font-variant: small-caps; letter-spacing: .03em; }
+ol.refs { font-size: .9rem; color: #333; }
+ol.refs li { margin-bottom: .4rem; }
+footer.site { max-width: 740px; margin: 3rem auto 0; color: var(--muted);
+  font-size: .82rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="backlink"><a href="../index.html">&larr; Back to archive index</a></p>
+  <article>
+    <p class="jid">JID-003</p>
+    <h1>Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling</h1>
+    <p class="byline">Devon Park, Iris Maleckar, and Samuel Whitfield</p>
+    <p class="pubinfo meta">Proceedings of Competitive Gaming Studies, Vol. 9,
+       No. 1 &middot; 2023</p>
+    <div class="abstract"><strong>Abstract.</strong> For three decades the maximum sustainable input rate in competitive Nintendo Entertainment System Tetris was bounded by the limits of single-finger tapping. The diffusion of two successive techniques, hypertapping and then rolling, lifted that bound and pushed play into level ranges the original game never anticipated. We model input rate as the binding constraint on high-level survival and use tournament data to show how the rolling technique compressed a previously stratified skill hierarchy into a near-flat plateau within eighteen months.</div>
+    <h2>Introduction</h2>
+      <p>Classic NES Tetris was, for most of its competitive life, a game about endurance under acceleration. As the level counter rises the pieces fall faster, and beyond a certain speed the player can no longer move a piece across the board quickly enough using the gentle directional presses the game was designed around. The skill ceiling was therefore not a matter of strategy but of how fast a thumb could press a button.</p>
+      <p>This paper treats input rate as a measurable physical resource and traces how two community-invented techniques expanded it. The story is unusual in esports because the underlying game was frozen in 1989; every gain came from the players, not from patches.</p>
+    <h2>The Tapping Regime</h2>
+      <p>The original method, delayed auto-shift play, relied on holding the directional pad and letting the console repeat the input. This was comfortable but slow, and it capped effective play around level 29, the so-called kill screen, where pieces fell faster than auto-shift could move them.</p>
+      <p>Hypertapping broke this ceiling by abandoning auto-shift entirely. Players vibrated a finger against the pad fast enough to register discrete presses, sustaining rates near ten or twelve inputs per second. This was physically punishing and unevenly distributed across the population, and it produced a steep skill hierarchy: a handful of hypertappers towered over everyone else.</p>
+    <h2>Rolling and the Flattening</h2>
+      <p>Rolling replaced the strained single finger with a different biomechanics entirely. The player braces the controller and drums four fingers against the back of the pad while the thumb steadies the front, so that each finger's tap pushes the pad into a registered press. Sustained rates above twenty inputs per second became routine, and the technique was far less fatiguing and far more learnable than hypertapping.</p>
+      <p>Learnability is the key word. Where hypertapping was a rare gift, rolling was a teachable craft, and its diffusion through tutorial videos collapsed the hierarchy it entered. Our tournament dataset shows the variance in peak level among top-32 finishers shrinking sharply across three consecutive championship seasons, as a wide band of players all reached previously elite territory.</p>
+    <h2>Modelling the Ceiling</h2>
+      <p>We formalise survival at high levels as a queueing problem: each piece must be placed before the next forces a misdrop, and the service rate is the player's input rate. Below a critical input rate, failure is near-certain within a few pieces; above it, survival depends mainly on board management. Rolling moved the bulk of the competitive field across that critical rate.</p>
+      <p>A consequence the model predicts, and the data confirm, is that scoring records became less about who could survive and more about who could keep a clean board indefinitely, shifting the decisive skill from raw speed back toward spatial planning. The ceiling did not vanish; it relocated.</p>
+    <h2>Conclusion</h2>
+      <p>The rolling technique is a rare natural experiment in how a single motor innovation can reorganise an entire competitive hierarchy without any change to the underlying game. By making extreme input rates both achievable and teachable, it flattened a steep elite and pushed the locus of skill from the fingers back to the mind.</p>
+    <h2>References</h2>
+    <ol class="refs">
+      <li>Park, D., &amp; Whitfield, S. (2022). Input-rate ceilings in fixed-ruleset games. Proceedings of Competitive Gaming Studies, 8(2), 30-49.</li>
+      <li>Maleckar, I. (2021). Biomechanics of controller drumming. Journal of Applied Esports Physiology, 4(1), 11-27.</li>
+      <li>Renner, K. (2019). The kill screen as a community artefact. Retro Play Quarterly, 7(3), 200-218.</li>
+      <li>Adeyemi, O. (2020). Tutorial diffusion and skill compression online. Network Culture Reports, 15, 77-95.</li>
+    </ol>
+  </article>
+  <p class="backlink" style="margin-top:2rem">
+    Raw exports for this article:
+    <a href="../data/JID-003.txt">.txt</a> &middot;
+    <a href="../data/JID-003.pdf">.pdf</a> &middot;
+    <a href="../data/articles.json">articles.json</a>
+  </p>
+</div>
+<footer class="site">Mock journal archive &mdash; fabricated content for RAG
+practice. Not real research.</footer>
+</body>
+</html>

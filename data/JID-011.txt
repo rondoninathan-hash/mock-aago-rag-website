@@ -1,0 +1,37 @@
+Healing Cracks: Self-Sealing Mechanisms in Roman Marine Concrete and Their Modern Relevance
+
+Giulia Fortunato, Henry Abara, and Mei-Ling Tan
+Archaeometry and Materials Science, Vol. 41, No. 2 (2014)
+JID-011
+
+ABSTRACT
+Roman harbour structures built from a volcanic-ash concrete have survived two thousand years of seawater that would destroy modern equivalents in decades. Examining drilled cores from three Mediterranean breakwaters, we identify a self-sealing mechanism in which seawater reaction with the lime and ash produces durable minerals within cracks, strengthening the material over time. We discuss why this behaviour has proven difficult to reproduce and what it implies for the design of long-lived marine concrete.
+
+INTRODUCTION
+Modern marine concrete is engineered to resist seawater, and it loses. Chloride attack and the corrosion of steel reinforcement limit the service life of harbour structures to a handful of decades. Against this record stands the awkward fact that Roman breakwaters built without steel and without Portland cement have endured for two millennia in the same hostile sea.
+
+This paper examines cores drilled from three Roman marine structures to understand why. Rather than merely cataloguing their longevity, we focus on the active mechanism by which the material appears to repair itself, a behaviour modern concrete conspicuously lacks.
+
+MATERIALS AND CORES
+The Roman recipe combined lime with a volcanic ash and seawater to produce a mortar that bound fragments of rock into a mass. Crucially, the material was not inert once set; it continued to react with the seawater percolating through it.
+
+We recovered cylindrical cores from the submerged portions of three breakwaters and examined them by microscopy and mineral analysis, paying particular attention to the material filling cracks and voids. The contents of those cracks turned out to tell the central story.
+
+THE SELF-SEALING REACTION
+Cracks in the Roman concrete were not empty but filled with interlocking crystals of durable minerals that had grown after the structure was built. Seawater entering a crack reacted with the lime and volcanic ash to precipitate these minerals, which knit the crack closed and were themselves resistant to further seawater attack.
+
+The result is a material that grows stronger where it is damaged. A crack that in modern concrete would admit chloride and accelerate failure instead becomes, in the Roman material, a site of mineral growth and self-repair. Time and seawater, the agents of decay elsewhere, are here agents of durability.
+
+WHY IT IS HARD TO COPY
+The obvious question is why we do not simply build this way today. Part of the answer is that the Roman material sets slowly and is initially weaker than modern concrete, an unacceptable trade-off for structures that must bear load immediately. Its virtues emerge only over centuries, a timescale beyond ordinary engineering practice.
+
+Part of the answer is also that the specific volcanic ash the Romans used is not uniformly available, and substitutes do not reliably reproduce the self-sealing reaction. Reproducing the behaviour requires not just the recipe but the patience and the materials, and modern construction is organised around neither.
+
+CONCLUSION
+Roman marine concrete endures because it heals, converting the seawater that destroys modern structures into a source of self-repairing mineral growth. Reproducing this behaviour demands rethinking the modern preference for early strength over long-term durability. The ruins, in this sense, outperform our designs precisely because they were built to a slower clock.
+
+REFERENCES
+[1] Fortunato, G. (2011). Mineralogy of ancient marine mortars. Archaeometry and Materials Science, 38(1), 50-74.
+[2] Abara, H., & Tan, M.-L. (2012). Crack-filling phases in volcanic-ash concrete. Cement Microstructure Letters, 22(3), 188-210.
+[3] Petrakis, S. (2009). Service life of reinforced marine concrete. Coastal Engineering Materials, 17(2), 99-121.
+[4] Donnelly, R. (2010). The unavailability problem in historic pozzolans. Journal of Construction History, 14(1), 33-52.

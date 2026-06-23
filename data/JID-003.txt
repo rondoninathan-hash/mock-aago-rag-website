@@ -1,0 +1,37 @@
+Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling
+
+Devon Park, Iris Maleckar, and Samuel Whitfield
+Proceedings of Competitive Gaming Studies, Vol. 9, No. 1 (2023)
+JID-003
+
+ABSTRACT
+For three decades the maximum sustainable input rate in competitive Nintendo Entertainment System Tetris was bounded by the limits of single-finger tapping. The diffusion of two successive techniques, hypertapping and then rolling, lifted that bound and pushed play into level ranges the original game never anticipated. We model input rate as the binding constraint on high-level survival and use tournament data to show how the rolling technique compressed a previously stratified skill hierarchy into a near-flat plateau within eighteen months.
+
+INTRODUCTION
+Classic NES Tetris was, for most of its competitive life, a game about endurance under acceleration. As the level counter rises the pieces fall faster, and beyond a certain speed the player can no longer move a piece across the board quickly enough using the gentle directional presses the game was designed around. The skill ceiling was therefore not a matter of strategy but of how fast a thumb could press a button.
+
+This paper treats input rate as a measurable physical resource and traces how two community-invented techniques expanded it. The story is unusual in esports because the underlying game was frozen in 1989; every gain came from the players, not from patches.
+
+THE TAPPING REGIME
+The original method, delayed auto-shift play, relied on holding the directional pad and letting the console repeat the input. This was comfortable but slow, and it capped effective play around level 29, the so-called kill screen, where pieces fell faster than auto-shift could move them.
+
+Hypertapping broke this ceiling by abandoning auto-shift entirely. Players vibrated a finger against the pad fast enough to register discrete presses, sustaining rates near ten or twelve inputs per second. This was physically punishing and unevenly distributed across the population, and it produced a steep skill hierarchy: a handful of hypertappers towered over everyone else.
+
+ROLLING AND THE FLATTENING
+Rolling replaced the strained single finger with a different biomechanics entirely. The player braces the controller and drums four fingers against the back of the pad while the thumb steadies the front, so that each finger's tap pushes the pad into a registered press. Sustained rates above twenty inputs per second became routine, and the technique was far less fatiguing and far more learnable than hypertapping.
+
+Learnability is the key word. Where hypertapping was a rare gift, rolling was a teachable craft, and its diffusion through tutorial videos collapsed the hierarchy it entered. Our tournament dataset shows the variance in peak level among top-32 finishers shrinking sharply across three consecutive championship seasons, as a wide band of players all reached previously elite territory.
+
+MODELLING THE CEILING
+We formalise survival at high levels as a queueing problem: each piece must be placed before the next forces a misdrop, and the service rate is the player's input rate. Below a critical input rate, failure is near-certain within a few pieces; above it, survival depends mainly on board management. Rolling moved the bulk of the competitive field across that critical rate.
+
+A consequence the model predicts, and the data confirm, is that scoring records became less about who could survive and more about who could keep a clean board indefinitely, shifting the decisive skill from raw speed back toward spatial planning. The ceiling did not vanish; it relocated.
+
+CONCLUSION
+The rolling technique is a rare natural experiment in how a single motor innovation can reorganise an entire competitive hierarchy without any change to the underlying game. By making extreme input rates both achievable and teachable, it flattened a steep elite and pushed the locus of skill from the fingers back to the mind.
+
+REFERENCES
+[1] Park, D., & Whitfield, S. (2022). Input-rate ceilings in fixed-ruleset games. Proceedings of Competitive Gaming Studies, 8(2), 30-49.
+[2] Maleckar, I. (2021). Biomechanics of controller drumming. Journal of Applied Esports Physiology, 4(1), 11-27.
+[3] Renner, K. (2019). The kill screen as a community artefact. Retro Play Quarterly, 7(3), 200-218.
+[4] Adeyemi, O. (2020). Tutorial diffusion and skill compression online. Network Culture Reports, 15, 77-95.

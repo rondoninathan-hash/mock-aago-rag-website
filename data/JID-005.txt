@@ -1,0 +1,37 @@
+From Semaphore to Signal: The Contested Invention of the Three-Colour Traffic Light, 1868-1935
+
+Rowena Castellanos
+Urban Infrastructure History, Vol. 6, No. 1 (1978)
+JID-005
+
+ABSTRACT
+The familiar red-amber-green traffic signal is often credited to a single inventor, but its emergence was a drawn-out negotiation between railway signalling conventions, gas and electric lighting technology, and the legal question of who owned the street. This paper traces the device from a fatal gas-lit experiment outside the British Parliament in 1868 to the standardised electric signal of the interwar years, arguing that the three-colour scheme won out for institutional rather than perceptual reasons.
+
+INTRODUCTION
+Every account of the traffic light must reckon with a tempting but misleading question: who invented it? The device we use today had no single parent. It was assembled, over roughly seventy years, from borrowed parts, and the most interesting of those parts were not technical but institutional.
+
+This paper follows the signal from its first, disastrous appearance to its interwar standardisation, paying particular attention to why the now-universal three-colour scheme displaced rival arrangements that were, on the evidence available at the time, equally plausible.
+
+THE GAS-LIT PROTOTYPE
+In 1868 a semaphore signal topped with a gas lantern was erected near the Houses of Parliament to manage horse traffic. It borrowed its arms from railway practice and its colours, red for stop and green for caution, from the same source. The experiment ended within weeks when the gas mechanism exploded and injured the constable operating it.
+
+The failure is usually treated as a footnote, but it set two lasting precedents. First, it established that street signals would inherit the colour vocabulary of the railways rather than invent their own. Second, it established that a human operator stood behind the device, a model that persisted long after the lights themselves became automatic.
+
+ELECTRIFICATION AND THE AMBER PROBLEM
+Electric signals appeared in American cities in the 1910s, and with them came the central dispute of the period: whether a two-state red-green signal sufficed or whether a third, intermediate state was needed. The intermediate state, amber, had no settled meaning. Some cities used it to clear the intersection before a change; others used it as a general warning; a few used it to signal that the policeman was about to take manual control.
+
+The perceptual argument for amber, that drivers needed warning of an imminent stop, was real but not decisive. What settled the matter was liability. A clearly defined amber phase allowed courts to assign fault in collisions with precision, and municipalities adopted the three-colour scheme in part to make their intersections legally legible.
+
+STANDARDISATION BETWEEN THE WARS
+By the 1930s national bodies on both sides of the Atlantic had fixed the sequence and meaning of the three colours. Standardisation was driven less by any new understanding of human vision than by the growth of long-distance motoring, which made locally idiosyncratic signals intolerable. A driver crossing several jurisdictions in a day needed every signal to mean the same thing.
+
+The three-colour light thus triumphed as a bureaucratic settlement. It was legible to courts, uniform across jurisdictions, and compatible with the inherited railway palette. Its perceptual virtues, real though they are, followed rather than led its adoption.
+
+CONCLUSION
+The traffic light was not invented so much as negotiated. Its colours came from the railways, its third phase from the courts, and its uniformity from the demands of interurban driving. Treating it as one person's brainchild obscures the far more characteristic story of an infrastructure assembled from institutional compromise.
+
+REFERENCES
+[1] Castellanos, R. (1974). Borrowed signals: railway colour codes in the street. Urban Infrastructure History, 2(2), 60-84.
+[2] Pemberton, G. (1969). The 1868 Westminster signal reconsidered. Journal of Victorian Technology, 11(1), 22-41.
+[3] Reyes, D. (1971). Liability and the amber phase. Law and the Built Environment, 5(3), 211-235.
+[4] Tannenbaum, H. (1966). Motoring and the demand for uniform signage. Transport Policy Studies, 4, 118-140.

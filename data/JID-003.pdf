@@ -1,0 +1,146 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4168 >>
+stream
+BT
+/F2 15 Tf
+1 0 0 1 56 732.0 Tm (Beyond Hypertapping: The Rolling Technique and the Collapse of the NES Tetris Skill Ceiling) Tj
+/F1 10 Tf
+1 0 0 1 56 718.0 Tm () Tj
+/F1 9 Tf
+1 0 0 1 56 704.0 Tm (Devon Park, Iris Maleckar, and Samuel Whitfield) Tj
+1 0 0 1 56 690.0 Tm (Proceedings of Competitive Gaming Studies, Vol. 9, No. 1 \(2023\) - JID-003) Tj
+/F1 10 Tf
+1 0 0 1 56 676.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 658.0 Tm (Abstract) Tj
+/F1 10 Tf
+1 0 0 1 56 644.0 Tm (For three decades the maximum sustainable input rate in competitive Nintendo Entertainment) Tj
+1 0 0 1 56 630.0 Tm (System Tetris was bounded by the limits of single-finger tapping. The diffusion of two) Tj
+1 0 0 1 56 616.0 Tm (successive techniques, hypertapping and then rolling, lifted that bound and pushed play into) Tj
+1 0 0 1 56 602.0 Tm (level ranges the original game never anticipated. We model input rate as the binding) Tj
+1 0 0 1 56 588.0 Tm (constraint on high-level survival and use tournament data to show how the rolling technique) Tj
+1 0 0 1 56 574.0 Tm (compressed a previously stratified skill hierarchy into a near-flat plateau within eighteen) Tj
+1 0 0 1 56 560.0 Tm (months.) Tj
+1 0 0 1 56 546.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 528.0 Tm (Introduction) Tj
+/F1 10 Tf
+1 0 0 1 56 514.0 Tm (Classic NES Tetris was, for most of its competitive life, a game about endurance under) Tj
+1 0 0 1 56 500.0 Tm (acceleration. As the level counter rises the pieces fall faster, and beyond a certain speed) Tj
+1 0 0 1 56 486.0 Tm (the player can no longer move a piece across the board quickly enough using the gentle) Tj
+1 0 0 1 56 472.0 Tm (directional presses the game was designed around. The skill ceiling was therefore not a) Tj
+1 0 0 1 56 458.0 Tm (matter of strategy but of how fast a thumb could press a button.) Tj
+1 0 0 1 56 444.0 Tm () Tj
+1 0 0 1 56 430.0 Tm (This paper treats input rate as a measurable physical resource and traces how two) Tj
+1 0 0 1 56 416.0 Tm (community-invented techniques expanded it. The story is unusual in esports because the) Tj
+1 0 0 1 56 402.0 Tm (underlying game was frozen in 1989; every gain came from the players, not from patches.) Tj
+1 0 0 1 56 388.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 370.0 Tm (The Tapping Regime) Tj
+/F1 10 Tf
+1 0 0 1 56 356.0 Tm (The original method, delayed auto-shift play, relied on holding the directional pad and) Tj
+1 0 0 1 56 342.0 Tm (letting the console repeat the input. This was comfortable but slow, and it capped effective) Tj
+1 0 0 1 56 328.0 Tm (play around level 29, the so-called kill screen, where pieces fell faster than auto-shift) Tj
+1 0 0 1 56 314.0 Tm (could move them.) Tj
+1 0 0 1 56 300.0 Tm () Tj
+1 0 0 1 56 286.0 Tm (Hypertapping broke this ceiling by abandoning auto-shift entirely. Players vibrated a finger) Tj
+1 0 0 1 56 272.0 Tm (against the pad fast enough to register discrete presses, sustaining rates near ten or) Tj
+1 0 0 1 56 258.0 Tm (twelve inputs per second. This was physically punishing and unevenly distributed across the) Tj
+1 0 0 1 56 244.0 Tm (population, and it produced a steep skill hierarchy: a handful of hypertappers towered over) Tj
+1 0 0 1 56 230.0 Tm (everyone else.) Tj
+1 0 0 1 56 216.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 198.0 Tm (Rolling and the Flattening) Tj
+/F1 10 Tf
+1 0 0 1 56 184.0 Tm (Rolling replaced the strained single finger with a different biomechanics entirely. The) Tj
+1 0 0 1 56 170.0 Tm (player braces the controller and drums four fingers against the back of the pad while the) Tj
+1 0 0 1 56 156.0 Tm (thumb steadies the front, so that each finger's tap pushes the pad into a registered press.) Tj
+1 0 0 1 56 142.0 Tm (Sustained rates above twenty inputs per second became routine, and the technique was far) Tj
+1 0 0 1 56 128.0 Tm (less fatiguing and far more learnable than hypertapping.) Tj
+1 0 0 1 56 114.0 Tm () Tj
+1 0 0 1 56 100.0 Tm (Learnability is the key word. Where hypertapping was a rare gift, rolling was a teachable) Tj
+1 0 0 1 56 86.0 Tm (craft, and its diffusion through tutorial videos collapsed the hierarchy it entered. Our) Tj
+1 0 0 1 56 72.0 Tm (tournament dataset shows the variance in peak level among top-32 finishers shrinking sharply) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2467 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 56 736.0 Tm (across three consecutive championship seasons, as a wide band of players all reached) Tj
+1 0 0 1 56 722.0 Tm (previously elite territory.) Tj
+1 0 0 1 56 708.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 690.0 Tm (Modelling the Ceiling) Tj
+/F1 10 Tf
+1 0 0 1 56 676.0 Tm (We formalise survival at high levels as a queueing problem: each piece must be placed before) Tj
+1 0 0 1 56 662.0 Tm (the next forces a misdrop, and the service rate is the player's input rate. Below a critical) Tj
+1 0 0 1 56 648.0 Tm (input rate, failure is near-certain within a few pieces; above it, survival depends mainly) Tj
+1 0 0 1 56 634.0 Tm (on board management. Rolling moved the bulk of the competitive field across that critical) Tj
+1 0 0 1 56 620.0 Tm (rate.) Tj
+1 0 0 1 56 606.0 Tm () Tj
+1 0 0 1 56 592.0 Tm (A consequence the model predicts, and the data confirm, is that scoring records became less) Tj
+1 0 0 1 56 578.0 Tm (about who could survive and more about who could keep a clean board indefinitely, shifting) Tj
+1 0 0 1 56 564.0 Tm (the decisive skill from raw speed back toward spatial planning. The ceiling did not vanish;) Tj
+1 0 0 1 56 550.0 Tm (it relocated.) Tj
+1 0 0 1 56 536.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 518.0 Tm (Conclusion) Tj
+/F1 10 Tf
+1 0 0 1 56 504.0 Tm (The rolling technique is a rare natural experiment in how a single motor innovation can) Tj
+1 0 0 1 56 490.0 Tm (reorganise an entire competitive hierarchy without any change to the underlying game. By) Tj
+1 0 0 1 56 476.0 Tm (making extreme input rates both achievable and teachable, it flattened a steep elite and) Tj
+1 0 0 1 56 462.0 Tm (pushed the locus of skill from the fingers back to the mind.) Tj
+1 0 0 1 56 448.0 Tm () Tj
+/F2 12 Tf
+1 0 0 1 56 430.0 Tm (References) Tj
+/F1 10 Tf
+1 0 0 1 56 416.0 Tm ([1] Park, D., & Whitfield, S. \(2022\). Input-rate ceilings in fixed-ruleset games.) Tj
+1 0 0 1 56 402.0 Tm (    Proceedings of Competitive Gaming Studies, 8\(2\), 30-49.) Tj
+1 0 0 1 56 388.0 Tm ([2] Maleckar, I. \(2021\). Biomechanics of controller drumming. Journal of Applied Esports) Tj
+1 0 0 1 56 374.0 Tm (    Physiology, 4\(1\), 11-27.) Tj
+1 0 0 1 56 360.0 Tm ([3] Renner, K. \(2019\). The kill screen as a community artefact. Retro Play Quarterly, 7\(3\),) Tj
+1 0 0 1 56 346.0 Tm (    200-218.) Tj
+1 0 0 1 56 332.0 Tm ([4] Adeyemi, O. \(2020\). Tutorial diffusion and skill compression online. Network Culture) Tj
+1 0 0 1 56 318.0 Tm (    Reports, 15, 77-95.) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000004682 00000 n 
+0000004818 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+7337
+%%EOF

@@ -1,0 +1,37 @@
+Underground Brokers: Mycorrhizal Networks and the Redistribution of Carbon in Temperate Forest Soils
+
+Ana-Lucia Foss and Pieter Vandermeer
+Soil Microbiology and Rhizosphere Science, Vol. 22, No. 4 (1996)
+JID-004
+
+ABSTRACT
+Ectomycorrhizal fungi connect the roots of neighbouring trees into shared hyphal networks whose ecological function remains contested. Using a dual isotope labelling scheme in a mixed birch-fir stand, we tracked carbon movement between donor and receiver seedlings across a growing season. We detected consistent net transfer from shaded receivers' larger neighbours, but the magnitude was small relative to each plant's own fixation, and we caution against the popular framing of these networks as deliberate resource-sharing systems.
+
+INTRODUCTION
+Few ideas in soil science have escaped the laboratory as thoroughly as the notion of a forest connected underground by fungal threads. The image of trees feeding their neighbours through a fungal network is compelling, but compelling images make for poor controls. This study asks a deliberately narrow question: how much carbon actually moves between trees through shared mycorrhizae, and under what conditions?
+
+We focus on ectomycorrhizal associations in a temperate birch-fir stand, where the two host species share compatible fungal partners and where natural light gradients create the source-sink differences that any transfer hypothesis requires.
+
+ISOTOPE LABELLING DESIGN
+Donor seedlings were pulse-labelled with a heavy carbon isotope delivered to their foliage in a sealed chamber, while neighbouring receiver seedlings were left at ambient conditions. A second, distinguishable label applied to the receivers allowed us to confirm that any heavy carbon found in receiver tissue had genuinely crossed from the donor rather than arriving by some shared atmospheric route.
+
+Crucially, half of the receiver seedlings were separated from donors by a fine mesh that excluded roots but admitted fungal hyphae, while a control set was separated by a barrier that excluded both. Transfer observed in the first group but not the second can be attributed to the fungal network rather than to direct root grafting or soil leakage.
+
+MAGNITUDE AND DIRECTION OF TRANSFER
+Net carbon transfer through the hyphal network was real and statistically robust, but modest. Receivers acquired on the order of a few percent of their seasonal carbon from donor neighbours, with transfer rising when the receiver was deeply shaded and the donor well lit. Direction followed the source-sink gradient: carbon moved from where it was abundant toward where it was scarce.
+
+This directionality is exactly what passive physical transport would predict. We found no evidence that donor trees preferentially supplied kin, nor that the fungus directed carbon in any way that served the trees rather than itself. The fungus is better understood as a broker taking its own cut than as a benevolent courier.
+
+AGAINST THE COOPERATIVE READING
+Popular accounts often describe these networks as forests 'sharing' resources, language that imputes intention and mutual benefit. Our data support a more austere reading. The fungus extracts carbon from every tree it colonises and redistributes a fraction of it along physical gradients, retaining the bulk for its own growth and reproduction.
+
+Any benefit to a shaded seedling is incidental to the fungus's metabolism, not its purpose. This matters for forestry, because management strategies premised on engineering cooperative networks rest on a function we could not demonstrate.
+
+CONCLUSION
+Carbon does move between trees through ectomycorrhizal networks, but in quantities and directions consistent with ordinary physical transport mediated by a self-interested fungal partner. The forest is connected, but it is not, on this evidence, cooperative. Future work should quantify how much of the transferred carbon the fungus retains in transit.
+
+REFERENCES
+[1] Foss, A.-L. (1993). Dual-label methods for belowground transport studies. Soil Microbiology and Rhizosphere Science, 19(1), 5-22.
+[2] Vandermeer, P., & Holt, R. (1991). Ectomycorrhizal host compatibility in mixed stands. Forest Fungal Ecology, 8(3), 144-167.
+[3] Iqbal, S. (1989). Source-sink dynamics in seedling carbon budgets. Plant Physiology Letters, 31(2), 90-108.
+[4] Marchetti, L. (1994). The mutualism that wasn't: rereading fungal generosity. Critical Mycology, 2(1), 33-51.
